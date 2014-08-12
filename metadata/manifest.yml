@@ -12,7 +12,7 @@ Vendor: Mit
 Categories:
   - service
   - database
-  - embedded
+  - web_framework
 Website: http://geoserver.org/
 Publishes:
   publish-http-url:
